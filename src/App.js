@@ -16,7 +16,7 @@ function App() {
       <div className="center">
         <img src={image} alt=''></img>
       </div>
-      <a href={site} target="_blank">
+      <a href={site} target="_blank" rel="noreferrer">
         {site}
       </a>
       <div className="formDiv">
